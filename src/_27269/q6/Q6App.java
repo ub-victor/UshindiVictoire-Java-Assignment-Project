@@ -96,4 +96,4 @@ public class Q6App {
 
         sc.close();
     }
-}
+} 
