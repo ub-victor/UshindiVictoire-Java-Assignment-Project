@@ -1,0 +1,67 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+.history/
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist/
+build/
+.cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs & temp
+*.log
+*.tmp
+tmp/
+temp/
+
+# Environment / secrets
+.env
+.env.*.local
+credentials.json
+secrets.json
+
+# Compiled / packaging
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Misc
+*.suo
+*.user
+*.userosscache
+*.sln
+*.dbmdl
