@@ -58,5 +58,8 @@ Each question contains:
 Ensure you are inside the project folder:
 
 ```bash
+```
+git clone https://github.com/ub-victor/UshindiVictoire
+```
 cd src
 javac Main.java
