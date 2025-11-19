@@ -1,9 +1,6 @@
 package _27269.q1;
 
-/**
- * Final class. Implements generateReport() to summarize total stock and sales.
- * All printed output lines are prefixed with student ID "27269 - " to follow output rule.
- */
+
 public final class StockReport extends Inventory {
     private String reportDate;
     private String remarks;
