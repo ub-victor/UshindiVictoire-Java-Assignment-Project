@@ -1,16 +1,13 @@
-# UshindiVictoire — Java OOP Assignment
+# UshindiVictoire — Java OOP Assignment  
+**Student ID:** 27269  
+**Language:** Java (OOP)  
+**Editor:** VS Code  
+**GitHub Username:** 27269  
+**Project Name:** UshindiVictoire  
 
-Student Name: **Ushindi Victoire**  
-Student ID: **27269**
+---
 
-## Project Structure
-- 6 Questions (Q1–Q6)
-- Packages follow: `_27269.q1`, `_27269.q2`, ... `_27269.q6`
-- Each question contains 10 classes with inheritance, encapsulation, validation.
-- Each final class includes required computation/report method.
-- All outputs concatenate student ID (27269) as required.
+## Project Overview
+This repository contains the complete solution for the **Java Object-Oriented Programming Assignment**.  
+It includes **6 fully implemented systems**, each stored in its own sub-package, following the required structure:
 
-## How to Run
-```bash
-javac src/**/*.java
-java -cp src Main
