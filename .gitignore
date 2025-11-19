@@ -7,7 +7,6 @@ ehthumbs.db
 Desktop.ini
 
 # VS Code
-.vscode/
 .history/
 
 # JetBrains IDEs
@@ -65,3 +64,7 @@ secrets.json
 *.userosscache
 *.sln
 *.dbmdl
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
